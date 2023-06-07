@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Rubik+Puddles&display=swap");
+
+@tailwind utilities;
+@tailwind components;
+@tailwind base;
+
+@layer {
+  .hero-para {
+    color: transparent;
+    -webkit-text-stroke: 1px black;
+  }
+}
