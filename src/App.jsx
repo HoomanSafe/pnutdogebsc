@@ -6,6 +6,8 @@ import Hero from "./Components/Hero";
 import { TextPlugin } from "gsap/TextPlugin";
 import About from "./Components/About";
 import Map from "./Components/Map";
+import Footer from "./Components/Footer";
+import Tokenomics from "./Components/Token";
 
 const App = () => {
   useEffect(() => {
@@ -60,6 +62,8 @@ const App = () => {
       <Hero />
       <About />
       <Map />
+      <Tokenomics/>
+      <Footer />
     </div>
   );
 };
