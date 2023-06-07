@@ -14,10 +14,18 @@ const Header = () => {
           half btc
         </a>
         <div className="flex gap-3  items-center">
-          <a href="" className="text-3xl hero-icon1">
+          <a
+            href="https://t.me/HalfBitcoinPortal"
+            target="_blank"
+            className="text-3xl hero-icon1"
+          >
             <ImTelegram />
           </a>
-          <a href="" className="text-3xl">
+          <a
+            href="Twitter.com/HalfBitcoinETH"
+            target="_blank"
+            className="text-3xl"
+          >
             <LuTwitter />
           </a>
           <a href="" className="text-3xl">
