@@ -52,7 +52,7 @@ const Map = () => {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ backgroundColor: "transparent" }}
-            iconStyle={{ background: "black", color: "#000" }}
+            iconStyle={{ background: "black", color: "#fff" }}
             icon={<RiSpaceShipLine />}
           >
             <h3 className="font-secondary vertical-timeline-element-title text-3xl capitalize">
