@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container flex flex-col justify-center items-center gap-6">
         <img src={logo} alt="" className="w-[35rem] logo-img" />
         <h1 className="text-6xl capitalize hero-header font-secondary">
-          welcome to half bitcoin
+          <p>welcome</p> <p>to</p> <p>half</p> <p>bitcoin</p>
         </h1>
         <p className="hero-para max-w-[600px]">
           Once upon a time, Bitcoin was soaring high, reaching new heights every
