@@ -5,6 +5,7 @@ import { gsap } from "gsap";
 import Hero from "./Components/Hero";
 import { TextPlugin } from "gsap/TextPlugin";
 import About from "./Components/About";
+import Map from "./Components/Map";
 
 const App = () => {
   useEffect(() => {
@@ -58,6 +59,7 @@ const App = () => {
       <Header />
       <Hero />
       <About />
+      <Map />
     </div>
   );
 };
