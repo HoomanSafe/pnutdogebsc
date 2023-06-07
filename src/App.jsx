@@ -4,6 +4,7 @@ import SplitType from "split-type";
 import { gsap } from "gsap";
 import Hero from "./Components/Hero";
 import { TextPlugin } from "gsap/TextPlugin";
+import About from "./Components/About";
 
 const App = () => {
   useEffect(() => {
@@ -56,6 +57,7 @@ const App = () => {
     <div className="min-h-screen w-full bg-black font-primary text-white">
       <Header />
       <Hero />
+      <About />
     </div>
   );
 };
