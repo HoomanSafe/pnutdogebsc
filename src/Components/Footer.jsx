@@ -9,7 +9,7 @@ const Footer = () => {
         <a href="https://t.me/HalfBitcoinPortal" target="_blank">
           <img src={Telegram} className="w-[3rem]" alt="" />
         </a>
-        <a href="Twitter.com/HalfBitcoinETH" target="_blank">
+        <a href="https://twitter.com/HalfBitcoinETH" target="_blank">
           <img src={twitter} className="w-[3rem]" alt="" />
         </a>
       </div>

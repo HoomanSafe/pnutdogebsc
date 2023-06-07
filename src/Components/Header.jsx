@@ -22,7 +22,7 @@ const Header = () => {
             <ImTelegram />
           </a>
           <a
-            href="Twitter.com/HalfBitcoinETH"
+            href="https://twitter.com/HalfBitcoinETH"
             target="_blank"
             className="text-3xl"
           >
