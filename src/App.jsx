@@ -53,7 +53,7 @@ const App = () => {
       );
   });
   return (
-    <div className="min-h-screen w-full bg-primary font-primary">
+    <div className="min-h-screen w-full bg-black font-primary text-white">
       <Header />
       <Hero />
     </div>

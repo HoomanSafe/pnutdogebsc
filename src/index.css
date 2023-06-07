@@ -7,6 +7,6 @@
 @layer {
   .hero-para {
     color: transparent;
-    -webkit-text-stroke: 1px black;
+    -webkit-text-stroke: 1px white;
   }
 }
