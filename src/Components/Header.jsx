@@ -15,7 +15,7 @@ const Header = () => {
         </a>
         <div className="flex gap-3  items-center">
           <a
-            href="https://t.me/HalfBitcoinPortal"
+            href="https://t.me/HalfBitcoinERC"
             target="_blank"
             className="text-3xl hero-icon1"
           >
