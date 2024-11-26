@@ -11,24 +11,24 @@ const Header = () => {
           href=""
           className="font-secondary logo text-4xl tracking-wider capitalize"
         >
-          half btc
+          Pnut Doge
         </a>
         <div className="flex gap-3  items-center">
           <a
-            href="https://t.me/HalfBitcoinERC"
+            href="https://t.me/PNutDoGeBsc"
             target="_blank"
             className="text-3xl hero-icon1"
           >
             <ImTelegram />
           </a>
           <a
-            href="https://twitter.com/HalfBitcoinETH"
+            href="https://x.com/"
             target="_blank"
             className="text-3xl"
           >
             <LuTwitter />
           </a>
-          <a href="" className="text-3xl">
+          <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0x2c1be00da03dee8ffed345270de58e60d997e6e6?t=1732628450286" className="text-3xl">
             <AiOutlineBarChart />
           </a>
         </div>
