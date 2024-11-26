@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../assets/img3.png";
+import Image from "../assets/logo1.png";
 
 const About = () => {
   return (
@@ -11,22 +11,16 @@ const About = () => {
             about
           </h1>
           <p className=" max-w-[600px]">
-            Once upon a time, Bitcoin was soaring high, reaching new heights
-            every day. It had just hit a new ATH of $69,000! All the degens were
-            talking about it. But something happened…
+            the perfect fusion of PNUT and DOGE, a revolutionary meme token ready to dominate the Binance Smart Chain. Backed by the vibrant spirit of memes and bold innovation, this project stands 
+            out as a tribute to creativity, humor, and community strength.
           </p>
           <p className=" max-w-[600px]">
-            The moon got dark, and people started to panic. Degens all around
-            the world started selling full bags of Bitcoin causing the price to
-            drop to a new All-Time-Low. However, some people saw an opportunity
-            in the chaos. They decided to split Bitcoin in half, birthing a new
-            cryptocurrency - Half Bitcoin.
+            bold determination and a flair for the extraordinary, PDOGE represents ambition, innovation, and the unstoppable 
+            spirit of decentralized finance.
           </p>
           <p className=" max-w-[600px]">
-            Half Bitcoin quickly gained popularity, as people saw it as a safer
-            investment. It became the new standard and Bitcoin was left behind.
-            And so, the tale of Bitcoin's rise and fall ended with the birth of
-            Half Bitcoin, a new cryptocurrency that changed the game forever.
+            captures the spirit of fun, creativity,
+            and the unstoppable power of community-driven innovation.
           </p>
         </div>
       </div>
