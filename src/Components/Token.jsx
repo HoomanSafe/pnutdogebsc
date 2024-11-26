@@ -15,16 +15,16 @@ const Tokenomics = () => {
         </h1>
         <div className="grid md:grid-cols-2 justify-center md:justify-between items-center gap-10 w-full">
           <div className="p-6 capitalize text-2xl w-full  text-white mx-auto text-center flex justify-center items-center">
-            <h1>Name: half bitcoin</h1>
+            <h1>Name: PDOGE</h1>
           </div>
           <div className="p-6 text-2xl w-full  text-white mx-auto text-center flex justify-center items-center">
-            <h1>Supply: 100000000</h1>
+            <h1>Supply: 200,000,000,000,000,000</h1>
           </div>
           <div className="p-6 text-2xl w-full  text-white mx-auto text-center flex justify-center items-center">
-            <h1>0% Tax</h1>
+            <h1>6% Tax</h1>
           </div>
           <div className="p-6 text-2xl w-full  text-white mx-auto text-center flex justify-center items-center">
-            <h1>2% max wallet</h1>
+            <h1>100% Locked Liquidity</h1>
           </div>
         </div>
       </div>
